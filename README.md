@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![monkeytype](https://gentle-shelf-65744.herokuapp.com/?test_length=60)
+[![monkeytype](https://gentle-shelf-65744.herokuapp.com/?test_length=60)](https://github.com/daniel-seiler)
 
 <!--
 **daniel-seiler/daniel-seiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
