@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![monkeytype](https://gentle-shelf-65744.herokuapp.com/?test_length=60)](https://github.com/daniel-seiler)
+[![Anurag's GitHub stats](https://github-readme-stats-daniel-seiler.vercel.app/api?username=daniel-seiler&show_icons=true&theme=dark&count_private=true)](https://github.com/daniel-seiler)
+
+[![Top Langs](https://github-readme-stats-daniel-seiler.vercel.app/api/top-langs/?username=daniel-seiler&langs_count=8&layout=compact&theme=dark&show_icons=true)](https://github.com/daniel-seiler)
 
 <!--
 **daniel-seiler/daniel-seiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
